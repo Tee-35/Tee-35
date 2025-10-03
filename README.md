@@ -6,6 +6,10 @@
 <img width="1052" height="811" alt="Screenshot 2025-10-03 at 19 37 25" src="https://github.com/user-attachments/assets/8cfd5571-061e-4272-be37-297cca58abc5" />
 
 
+[CS50 SQL Certificate .pdf](https://github.com/user-attachments/files/22686250/CS50.SQL.Certificate.pdf)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
