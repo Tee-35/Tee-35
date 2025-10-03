@@ -2,6 +2,7 @@
 
 <!--
 **Tee-35/Tee-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[CS50 SQL Certificate .pdf](https://github.com/user-attachments/files/22686230/CS50.SQL.Certificate.pdf)
 
 Here are some ideas to get you started:
 
